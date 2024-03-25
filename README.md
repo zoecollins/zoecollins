@@ -2,11 +2,11 @@
 
  I’m currently learning SQL, R, and Python programming.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoecoll)](https://github.com/zoecoll/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoecollins)](https://github.com/zoecollins/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoecoll&show_icons=true)](https://github.com/zoecoll/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoecollins&show_icons=true)](https://github.com/zoecollins/github-readme-stats)
 
- ![Language Stats](https://img.shields.io/github/languages/count/zoecoll/SQL-Google-Data-Analytics-Certificate)
+ ![Language Stats](https://img.shields.io/github/languages/count/zoecollins/SQL-Google-Data-Analytics-Certificate)
 
 
 <!--
