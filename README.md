@@ -1,4 +1,13 @@
-### Hi there 👋
+# I'm Zoe.
+
+ I’m currently learning SQL and R programming.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoecoll)](https://github.com/zoecoll/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoecoll&show_icons=true)](https://github.com/zoecoll/github-readme-stats)
+
+ ![Language Stats](https://img.shields.io/github/languages/count/zoecoll/SQL-Google-Data-Analytics-Certificate)
+
 
 <!--
 **zoecollins/zoecollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
