@@ -1,4 +1,4 @@
-# I'm Zoe.
+## I'm Zoe.
 
  I’m currently learning SQL and R programming.
 
