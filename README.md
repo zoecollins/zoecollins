@@ -1,6 +1,6 @@
 ## I'm Zoe.
 
- I’m currently learning SQL and R programming.
+ I’m currently learning SQL, R, and Python programming.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoecoll)](https://github.com/zoecoll/github-readme-stats)
 
