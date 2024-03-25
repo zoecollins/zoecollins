@@ -4,7 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoecollins)](https://github.com/zoecollins/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoecollins&show_icons=true)](https://github.com/zoecollins/github-readme-stats)
 
  ![Language Stats](https://img.shields.io/github/languages/count/zoecollins/SQL-Google-Data-Analytics-Certificate)
 
@@ -13,6 +12,8 @@
 **zoecollins/zoecollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoecollins&show_icons=true)](https://github.com/zoecollins/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
