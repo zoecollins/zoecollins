@@ -4,7 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoecollins)](https://github.com/zoecollins/github-readme-stats)
 
 
- ![Language Stats](https://img.shields.io/github/languages/count/zoecollins/SQL-Google-Data-Analytics-Certificate)
 
 
 <!--
