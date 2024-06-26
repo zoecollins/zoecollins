@@ -1,6 +1,5 @@
-## I'm Zoe.
+## Hello, I'm Zoe.
 
- I’m currently learning SQL, R, and Python programming.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoecollins)](https://github.com/zoecollins/github-readme-stats)
 
