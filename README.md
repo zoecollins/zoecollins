@@ -1,5 +1,6 @@
 ## Hello, I'm Zoe.
 
+I'm currently practicing SQL and R.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoecollins)](https://github.com/zoecollins/github-readme-stats)
 
